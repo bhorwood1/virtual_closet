@@ -1,0 +1,25 @@
+
+#username{
+  color: #00FFFF;
+  text-align: center;
+  font-family: 'Niconne', cursive;
+  font-size:50px;
+}
+
+#password{
+  color:#00FFFF;
+  text-align: center;
+  font-family: 'Niconne', cursive;
+  font-size:50px;
+}
+
+#submit{
+ margin-right: 680px;
+  display:block;
+  float:right;
+}
+
+body{
+  background-color: black;
+
+}

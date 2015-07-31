@@ -1,0 +1,92 @@
+@import url(http://fonts.googleapis.com/css?family=Abel);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(http://fonts.googleapis.com/css?family=Karma);
+
+#nav{
+  float:right;
+  margin-right: 576px;
+  font-family: 'Niconne', cursive;
+    color:#00FFFF;
+  font-size:24px;
+}
+
+  
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Niconne', cursive;
+  font-size: 100px;
+  background-color:black;
+  text-align:center;
+   color:white;
+}
+
+
+/* h3{
+  font-family: 'Raleway', sans-serif;
+  color: #6F9F6F;
+  font-size: 35px;
+}
+
+h4 {
+  color: white;
+  font-family: 'Karma', serif;
+  font-size:20px;
+} */
+
+.carousel .item {
+  height: 400px;
+  background-color: black;
+}
+
+/* .carousel-inner > .item > img {
+  position:absolute;
+  top: 0;
+  left: 0;
+  min-width: 50%;
+  height: 400px;
+} */
+
+
+.carousel-inner > .item > img {
+  margin:0 auto;
+  min-width: 40%;
+  height: 400px;
+}
+
+#second_right{
+  position: absolute;
+    top: 800px;
+  right:100px;
+}
+
+#second_left{
+  position: absolute;
+   top: 800px;
+   left:100px;
+}
+
+
+
+#third_right{
+  position: absolute;
+    top: 1200px;
+  right:100px;
+}
+
+#third_left{
+  position: absolute;
+   top: 1200px;
+   left:100px;
+}
+
+
+
+
+
+
+

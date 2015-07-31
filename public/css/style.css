@@ -1,0 +1,60 @@
+#header{
+ 
+  z-index:1;
+  width:750px;
+  text-align:center;
+  margin: 0 auto;
+  
+}
+
+video#bgvid {
+position: fixed;
+top: 50%;
+left: 50%;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: -100;
+-webkit-transform: translateX(-50%) translateY(-50%);
+transform: translateX(-50%) translateY(-50%);
+background: url(../images/background.mp4) no-repeat;
+background-size: cover;
+} 
+
+
+@import url(http://fonts.googleapis.com/css?family=Abel);
+@import url(http://fonts.googleapis.com/css?family=Abel|Inder);
+@import url(http://fonts.googleapis.com/css?family=Abel|Inder|Play);
+
+h1 {
+  font-family: 'Niconne', cursive;
+    color:white;
+  font-size:100px;
+  opacity:1;
+}
+
+h2{
+    font-family: 'Niconne', cursive;
+    color:white;
+  font-size:25px;
+  text-align:center;
+}
+
+
+ #button1{
+  float:right;
+  margin-right: 350px;
+  margin-top: 390px;
+  background-color: #3333FF ;
+  border-color: #404040 ;
+   color:black;
+  font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+  font-size:20px;
+  width:160px;
+  height:90px;
+  filter:blur(10px);
+   border-radius: 10px;
+}
+ 
